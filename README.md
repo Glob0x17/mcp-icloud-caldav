@@ -270,6 +270,8 @@ tests/integration/     # Read-only tests against a real account
   command are renamed from `mcp_ical` / `mcp-ical`, which clashed with the original macOS project. The unused
   `mcp[cli]` extra was dropped.
 
+[![iCloud Calendar (CalDAV) MCP server](https://mcprush.com/badge/icloud-calendar-caldav-mcp/card.svg)](https://mcprush.com/to/icloud-calendar-caldav-mcp?ref=badge)
+
 ## Credits and license
 
 MIT, see [LICENSE](LICENSE).
